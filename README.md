@@ -52,8 +52,8 @@
    - ELK stack (Elasticsearch + Logstash + Kibana)
 1. Performance Test
 1. Architecture
-  - MSA (Micro Service Architecture)
-    - Spring Cloud
+   - MSA (Micro Service Architecture)
+   - Spring Cloud
 1. Others
    - Reactive Programming (for Java)
      - (prerequisite) Lambda for Java8
